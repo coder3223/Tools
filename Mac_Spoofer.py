@@ -1,7 +1,6 @@
 import subprocess
 import optparse
 import re
-# original MAC Address 08:00:27:af:ab:05
 
 
 def get_argument():
